@@ -1,5 +1,5 @@
-# [astro-starter-template] 📄
+# [astro-sst] 📄
 
-Starter template for AstroJS.
+Starter template for AstroJS on SST.
 
-[astro-starter-template]: https://npmjs.org/astro-starter-template
+[astro-sst]: https://npmjs.org/astro-sst

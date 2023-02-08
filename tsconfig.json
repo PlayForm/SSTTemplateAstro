@@ -17,5 +17,8 @@
 			"astro/env"
 		]
 	},
-	"extends": "@lightrix/config/base/ts"
+	"extends": "@lightrix/config/base/ts",
+	"include": [
+		".sst/types"
+	]
 }

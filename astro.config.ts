@@ -6,8 +6,12 @@ import sitemap from "@astrojs/sitemap";
 import compress from "astro-compress";
 import critters from "astro-critters";
 import rome from "astro-rome";
+import aws from "astro-sst/lambda";
 
 export default defineConfig({
+	output: "server",
+	adapter: aws(),
+
 	// TODO Place your site URL here
 	// site: "",
 	integrations: [
