@@ -39,7 +39,7 @@
 		"astro-sst": "2.0.17",
 		"autoprefixer": "10.4.13",
 		"aws-cdk-lib": "2.64.0",
-		"constructs": "10.1.247",
+		"constructs": "10.1.248",
 		"cssnano": "5.1.14",
 		"cssnano-preset-advanced": "5.3.9",
 		"firebase": "9.17.1",
