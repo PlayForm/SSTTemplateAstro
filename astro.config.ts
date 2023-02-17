@@ -12,7 +12,6 @@ import worker from "astrojs-service-worker";
 export default defineConfig({
 	output: "server",
 	adapter: aws(),
-
 	// TODO Place your site URL here
 	// site: "",
 	integrations: [
