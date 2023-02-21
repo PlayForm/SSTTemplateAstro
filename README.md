@@ -2,4 +2,4 @@
 
 Starter template for AstroJS on SST.
 
-[astro-sst]: https://npmjs.org/astro-sst
+[astro-sst]: https://npmjs.org/@lightrix/astro-sst
