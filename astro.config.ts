@@ -10,10 +10,10 @@ import sitemap from "@astrojs/sitemap";
 import worker from "astrojs-service-worker";
 
 export default defineConfig({
-	output: "server",
-	adapter: aws(),
 	// TODO Place your site URL here
 	// site: "",
+	output: "server",
+	adapter: aws(),
 	integrations: [
 		worker(),
 		sitemap(),
