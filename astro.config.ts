@@ -1,12 +1,12 @@
 // @ts-nocheck
 import { defineConfig } from "astro/config";
 
-import aws from "astro-sst/lambda";
+import prefetch from "@astrojs/prefetch";
+import sitemap from "@astrojs/sitemap";
 import compress from "astro-compress";
 import critters from "astro-critters";
-import prefetch from "@astrojs/prefetch";
 import rome from "astro-rome";
-import sitemap from "@astrojs/sitemap";
+import aws from "astro-sst/lambda";
 import worker from "astrojs-service-worker";
 
 export default defineConfig({
