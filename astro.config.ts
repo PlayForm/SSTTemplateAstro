@@ -15,7 +15,7 @@ export default defineConfig({
 	output: "server",
 	adapter: aws(),
 	integrations: [
-		worker(),
+		import.meta.env.MODE === "production" ? worker() : null,
 		sitemap(),
 		critters({ logger: 1 }),
 		prefetch(),
