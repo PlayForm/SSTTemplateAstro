@@ -40,7 +40,7 @@
 		"astrojs-service-worker": "0.0.9",
 		"autoprefixer": "10.4.14",
 		"aws-cdk-lib": "2.68.0",
-		"constructs": "10.1.276",
+		"constructs": "10.1.277",
 		"cssnano": "5.1.15",
 		"cssnano-preset-advanced": "5.3.10",
 		"dotenv": "16.0.3",
