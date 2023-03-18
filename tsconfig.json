@@ -23,8 +23,12 @@
 			"astro/env"
 		]
 	},
+<<<<<<< HEAD
 	"extends": "./node_modules/@lightrix/config/base/ts",
 	"include": [
 		".sst/types"
 	]
+=======
+	"extends": "./node_modules/@lightrix/config/base/ts"
+>>>>>>> upstream/main
 }

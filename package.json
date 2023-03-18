@@ -36,7 +36,10 @@
 		"astro-compress": "1.1.35",
 		"astro-critters": "1.1.31",
 		"astro-rome": "0.1.11",
+<<<<<<< HEAD
 		"astro-sst": "2.2.1",
+=======
+>>>>>>> upstream/main
 		"astrojs-service-worker": "1.0.0",
 		"autoprefixer": "10.4.14",
 		"aws-cdk-lib": "2.69.0",
