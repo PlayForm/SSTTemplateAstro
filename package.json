@@ -55,6 +55,7 @@
 		"zod": "3.21.4"
 	},
 	"publishConfig": {
+		"provenance": true,
 		"access": "public"
 	}
 }
