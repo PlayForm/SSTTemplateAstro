@@ -13,6 +13,9 @@ export default defineConfig({
 	// site: "",
 	output: "server",
 	adapter: aws(),
+	experimental: {
+		assets: true,
+	},
 	integrations: [
 		import.meta.env.MODE === "production" ? worker() : null,
 		sitemap(),
