@@ -4,7 +4,7 @@ import { AstroSite } from "sst/constructs";
 export default {
 	config(_input) {
 		return {
-			name: "astro-sst",
+			name: "astro-sst-template",
 			region: "us-east-1",
 		};
 	},

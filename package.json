@@ -1,14 +1,14 @@
 {
-	"name": "astro-sst",
+	"name": "astro-sst-template",
 	"version": "0.0.1",
 	"description": "📄 Starter template for AstroJS on SST.",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Lightrix/astro-sst.git"
+		"url": "https://github.com/Lightrix/astro-sst-template.git"
 	},
-	"homepage": "https://github.com/Lightrix/astro-sst#readme",
+	"homepage": "https://github.com/Lightrix/astro-sst-template#readme",
 	"bugs": {
-		"url": "https://github.com/Lightrix/astro-sst/issues"
+		"url": "https://github.com/Lightrix/astro-sst-template/issues"
 	},
 	"license": "MIT",
 	"private": false,
