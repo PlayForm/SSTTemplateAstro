@@ -35,17 +35,14 @@
 		"astro-compress": "1.1.47",
 		"astro-critters": "1.1.38",
 		"astro-rome": "0.1.18",
-<<<<<<< HEAD
 		"astro-sst": "2.13.6",
-=======
->>>>>>> upstream/main
 		"astrojs-service-worker": "1.0.0",
 		"autoprefixer": "10.4.14",
 		"aws-cdk-lib": "2.84.0",
 		"constructs": "10.2.52",
 		"cssnano": "6.0.1",
 		"cssnano-preset-advanced": "6.0.1",
-		"dotenv": "16.2.0",
+		"dotenv": "16.3.0",
 		"firebase": "9.22.2",
 		"postcss": "8.4.24",
 		"postcss-combine-duplicated-selectors": "10.0.3",
