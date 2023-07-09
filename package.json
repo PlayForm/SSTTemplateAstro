@@ -12,11 +12,7 @@
 	},
 	"license": "MIT",
 	"private": false,
-<<<<<<< HEAD
 	"keywords": ["astro", "starter", "sst"],
-=======
-	"keywords": ["astro", "starter"],
->>>>>>> upstream/main
 	"scripts": {
 		"build": "astro check && astro build",
 		"dev": "sst bind 'astro dev'",
