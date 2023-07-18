@@ -34,7 +34,6 @@
 		"astro": "2.8.4",
 		"astro-compress": "1.1.49",
 		"astro-critters": "1.1.39",
-		"astro-preload": "1.1.2",
 		"astro-rome": "0.1.18",
 		"astro-sst": "2.22.1",
 		"astrojs-service-worker": "1.0.0",
