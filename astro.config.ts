@@ -18,7 +18,6 @@ export default defineConfig({
 	},
 	compressHTML: true,
 	integrations: [
-		preload(),
 		import.meta.env.MODE === "production" ? worker() : null,
 		sitemap(),
 		critters({ logger: 1 }),
