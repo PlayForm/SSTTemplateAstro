@@ -15,6 +15,7 @@ export default defineConfig({
 	adapter: aws(),
 	experimental: {
 		assets: true,
+		viewTransitions: true,
 	},
 	compressHTML: true,
 	integrations: [
