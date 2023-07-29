@@ -38,7 +38,7 @@
 		"astro-sst": "2.22.6",
 		"astrojs-service-worker": "1.0.0",
 		"autoprefixer": "10.4.14",
-		"aws-cdk-lib": "2.88.0",
+		"aws-cdk-lib": "2.89.0",
 		"constructs": "10.2.69",
 		"cssnano": "6.0.1",
 		"cssnano-preset-advanced": "6.0.1",
