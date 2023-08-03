@@ -2,7 +2,12 @@
 	"name": "astro-sst-template",
 	"version": "0.0.1",
 	"private": false,
+<<<<<<< HEAD
 	"description": "📄 Starter template for AstroJS on SST.",
+=======
+	"type": "module",
+	"description": "📄 Starter template for AstroJS.",
+>>>>>>> upstream/main
 	"keywords": [
 		"astro",
 		"starter",
