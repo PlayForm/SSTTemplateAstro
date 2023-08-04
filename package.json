@@ -2,7 +2,11 @@
 	"name": "astro-sst-template",
 	"version": "0.0.1",
 	"private": false,
+<<<<<<< HEAD
 	"description": "📄 Starter template for AstroJS on SST.",
+=======
+	"description": "📄 Starter template for AstroJS.",
+>>>>>>> upstream/main
 	"keywords": [
 		"astro",
 		"starter",
@@ -17,6 +21,7 @@
 		"url": "git+https://github.com/Lightrix/astro-sst-template.git"
 	},
 	"license": "MIT",
+	"type": "module",
 	"scripts": {
 		"build": "astro check && astro build",
 		"dev": "sst bind 'astro dev'",
