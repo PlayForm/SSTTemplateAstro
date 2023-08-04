@@ -9,6 +9,7 @@ import worker from "astrojs-service-worker";
 
 export default defineConfig({
 	srcDir: "./Source",
+	publicDir: "./Public",
 	// TODO Place your site URL here
 	// site: "",
 	output: "server",
