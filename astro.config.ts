@@ -3,7 +3,10 @@ import sitemap from "@astrojs/sitemap";
 import Compress from "astro-compress";
 import critters from "astro-critters";
 import ROME from "astro-rome";
+<<<<<<< HEAD
 import aws from "astro-sst/lambda";
+=======
+>>>>>>> upstream/main
 import { defineConfig } from "astro/config";
 import worker from "astrojs-service-worker";
 
