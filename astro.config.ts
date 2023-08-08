@@ -23,10 +23,10 @@ export default defineConfig({
 	integrations: [
 		import.meta.env.MODE === "production" ? Worker() : null,
 		SiteMap(),
-		Critters({ logger: 1 }),
+		Critters({ Logger: 1 }),
 		PreFetch(),
-		ROME({ logger: 1 }),
-		Compress({ logger: 1 }),
+		ROME({ Logger: 1 }),
+		Compress({ Logger: 1 }),
 	],
 	vite: {
 		build: {
