@@ -16,9 +16,10 @@
 		"type": "git",
 		"url": "git+https://github.com/Lightrix/astro-sst-template.git"
 	},
+	"license": "MIT",
 	"scripts": {
-		"prepublishOnly": "astro check && astro build",
 		"dev": "sst bind 'astro dev'",
+		"prepublishOnly": "astro check && astro build",
 		"sst:deploy": "sst deploy",
 		"sst:dev": "sst dev",
 		"start": "astro dev"
