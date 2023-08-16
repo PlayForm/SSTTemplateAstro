@@ -17,7 +17,7 @@
 		"url": "git+https://github.com/Lightrix/astro-sst-template.git"
 	},
 	"scripts": {
-		"build": "astro check && astro build",
+		"prepublishOnly": "astro check && astro build",
 		"dev": "sst bind 'astro dev'",
 		"sst:deploy": "sst deploy",
 		"sst:dev": "sst dev",
