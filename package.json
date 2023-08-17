@@ -1,7 +1,7 @@
 {
 	"name": "astro-sst-template",
 	"version": "0.0.1",
-	"private": false,
+	"private": "false",
 	"description": "📄 Starter template for AstroJS on SST.",
 	"keywords": [
 		"astro",
@@ -17,6 +17,12 @@
 		"url": "git+https://github.com/Lightrix/astro-sst-template.git"
 	},
 	"license": "MIT",
+	"author": {
+		"name": "Nikola Hristov",
+		"email": "nikola@nikolahristov.tech",
+		"url": "https://nikolahristov.tech"
+	},
+	"type": "module",
 	"scripts": {
 		"dev": "sst bind 'astro dev'",
 		"prepublishOnly": "astro check && astro build",
