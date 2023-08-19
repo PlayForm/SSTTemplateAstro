@@ -8,13 +8,13 @@
 		"starter",
 		"sst"
 	],
-	"homepage": "https://github.com/Lightrix/astro-sst-template#readme",
+	"homepage": "https://github.com/Lightrix/AstroSSTTemplate#readme",
 	"bugs": {
-		"url": "https://github.com/Lightrix/astro-sst-template/issues"
+		"url": "https://github.com/Lightrix/AstroSSTTemplate/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Lightrix/astro-sst-template.git"
+		"url": "git+https://github.com/Lightrix/AstroSSTTemplate.git"
 	},
 	"license": "MIT",
 	"author": {
@@ -35,11 +35,11 @@
 		"@tailwindcss/aspect-ratio": "0.4.2",
 		"@tailwindcss/forms": "0.5.4",
 		"@tailwindcss/typography": "0.5.9",
-		"astro": "2.10.11",
-		"astro-compress": "2.0.12",
+		"astro": "2.10.12",
+		"astro-compress": "2.0.13",
 		"astro-critters": "2.0.10",
 		"astro-rome": "2.0.7",
-		"astro-sst": "2.24.7",
+		"astro-sst": "2.24.8",
 		"astrojs-service-worker": "1.0.0",
 		"autoprefixer": "10.4.15",
 		"aws-cdk-lib": "2.92.0",
@@ -57,7 +57,7 @@
 		"sst": "rc",
 		"tailwindcss": "3.3.3",
 		"typescript-esbuild": "0.1.14",
-		"zod": "3.22.1"
+		"zod": "3.22.2"
 	},
 	"publishConfig": {
 		"access": "public"
