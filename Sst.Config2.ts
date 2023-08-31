@@ -14,6 +14,7 @@ export default {
 			ctx.stack.addOutputs({
 				url: site.url || "http://localhost:3000",
 			});
+		
 		});
 	},
 } satisfies SSTConfig;
