@@ -15,10 +15,6 @@ export default defineConfig({
 	// site: "",
 	output: "server",
 	adapter: aws(),
-	experimental: {
-		assets: true,
-		viewTransitions: true,
-	},
 	compressHTML: true,
 	integrations: [
 		import.meta.env.MODE === "production" ? Worker() : null,
