@@ -40,7 +40,7 @@
 		"astro-critters": "2.0.11",
 		"astro-rome": "2.0.8",
 		"astro-sst": "2.24.21",
-		"astrojs-service-worker": "1.0.0",
+		"astrojs-service-worker": "1.1.0",
 		"autoprefixer": "10.4.15",
 		"aws-cdk-lib": "2.93.0",
 		"constructs": "10.2.70",
