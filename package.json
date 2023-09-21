@@ -42,7 +42,7 @@
 		"astro-rome": "2.0.9",
 		"astro-sst": "2.25.4",
 		"astrojs-service-worker": "1.1.0",
-		"autoprefixer": "10.4.15",
+		"autoprefixer": "10.4.16",
 		"aws-cdk-lib": "2.96.2",
 		"constructs": "10.2.70",
 		"cssnano": "6.0.1",
