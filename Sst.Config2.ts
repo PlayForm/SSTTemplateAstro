@@ -1,4 +1,5 @@
 import type { SSTConfig as Type } from "sst";
+
 import { AstroSite } from "sst/constructs";
 
 export default {
