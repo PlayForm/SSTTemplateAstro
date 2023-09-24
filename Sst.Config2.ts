@@ -1,4 +1,4 @@
-import type { SSTConfig as Type } from "sst";
+import type { SSTConfig } from "sst";
 
 import { AstroSite } from "sst/constructs";
 
