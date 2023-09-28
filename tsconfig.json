@@ -16,6 +16,10 @@
 		},
 		"types": ["astro/client", "astro/env"]
 	},
+<<<<<<< HEAD
 	"extends": "typescript-esbuild/Target/Notation/TypeScript",
 	"include": [".sst/types"]
+=======
+	"extends": "typescript-esbuild/Target/Notation/TypeScript"
+>>>>>>> upstream/main
 }
