@@ -9,13 +9,8 @@ export default (await import("astro/config")).defineConfig({
 	compressHTML: true,
 	integrations: [
 		import.meta.env.MODE === "production"
-<<<<<<< HEAD
 			? (await import("astrojs-service-worker")).default()
 			: null,
-=======
-		? (await import("astrojs-service-worker")).default()
-		: null,
->>>>>>> upstream/main
 		(await import("@astrojs/sitemap")).default(),
 		(await import("astro-critters")).default({ Logger: 1 }),
 		(await import("@astrojs/prefetch")).default(),

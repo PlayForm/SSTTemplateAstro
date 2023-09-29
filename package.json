@@ -44,11 +44,8 @@
 		"astro-sst": "2.26.8",
 		"astrojs-service-worker": "1.1.0",
 		"autoprefixer": "10.4.16",
-<<<<<<< HEAD
 		"aws-cdk-lib": "2.99.0",
 		"constructs": "10.2.70",
-=======
->>>>>>> upstream/main
 		"cssnano": "6.0.1",
 		"cssnano-preset-advanced": "6.0.1",
 		"dotenv": "16.3.1",
