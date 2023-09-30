@@ -44,7 +44,7 @@
 		"astro-sst": "2.26.9",
 		"astrojs-service-worker": "1.1.0",
 		"autoprefixer": "10.4.16",
-		"aws-cdk-lib": "2.99.0",
+		"aws-cdk-lib": "2.99.1",
 		"constructs": "10.2.70",
 		"cssnano": "6.0.1",
 		"cssnano-preset-advanced": "6.0.1",
@@ -59,7 +59,7 @@
 		"sst": "rc",
 		"tailwindcss": "3.3.3",
 		"typescript": "5.2.2",
-		"typescript-esbuild": "0.2.1",
+		"typescript-esbuild": "0.2.4",
 		"zod": "3.22.2"
 	},
 	"publishConfig": {
