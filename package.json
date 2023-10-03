@@ -59,8 +59,8 @@
 		"sst": "rc",
 		"tailwindcss": "3.3.3",
 		"typescript": "5.2.2",
-		"typescript-esbuild": "0.2.10",
-		"zod": "3.22.2"
+		"typescript-esbuild": "0.2.12",
+		"zod": "3.22.3"
 	},
 	"publishConfig": {
 		"access": "public"
