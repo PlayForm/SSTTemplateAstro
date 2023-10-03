@@ -8,13 +8,13 @@
 		"starter",
 		"sst"
 	],
-	"homepage": "https://github.com/Lightrix/AstroSSTTemplate#readme",
+	"homepage": "https://github.com/Playform/AstroSSTTemplate#readme",
 	"bugs": {
-		"url": "https://github.com/Lightrix/AstroSSTTemplate/issues"
+		"url": "https://github.com/Playform/AstroSSTTemplate/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Lightrix/AstroSSTTemplate.git"
+		"url": "git+https://github.com/Playform/AstroSSTTemplate.git"
 	},
 	"license": "MIT",
 	"author": {
