@@ -8,6 +8,7 @@
 		"starter",
 		"sst"
 	],
+<<<<<<< HEAD
 	"homepage": "https://github.com/Playform/AstroSSTTemplate#readme",
 	"bugs": {
 		"url": "https://github.com/Playform/AstroSSTTemplate/issues"
@@ -15,6 +16,15 @@
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/Playform/AstroSSTTemplate.git"
+=======
+	"homepage": "https://github.com/Playform/AstroStarterTemplate#readme",
+	"bugs": {
+		"url": "https://github.com/Playform/AstroStarterTemplate/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Playform/AstroStarterTemplate.git"
+>>>>>>> upstream/main
 	},
 	"license": "MIT",
 	"author": {
