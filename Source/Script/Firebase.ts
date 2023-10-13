@@ -1,4 +1,6 @@
-(await import("firebase/app")).initializeApp({
+import { initializeApp } from "firebase/app";
+
+initializeApp({
 	apiKey: "", // TODO Replace with your API key
 	appId: "", // TODO Replace with your app ID
 	authDomain: "", // TODO Replace with your auth domain
@@ -9,4 +11,3 @@
 	storageBucket: "", // TODO Replace with your storage bucket
 });
 
-export {};
