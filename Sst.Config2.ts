@@ -1,7 +1,3 @@
-import type { SSTConfig } from "sst";
-
-import { AstroSite } from "sst/constructs";
-
 export default {
 	config(_input) {
 		return {
@@ -9,12 +5,18 @@ export default {
 			region: "us-east-1",
 		};
 	},
-	stacks(app) {
-		app.stack(function Site(ctx) {
-			const site = new AstroSite(ctx.stack, "site");
-			ctx.stack.addOutputs({
-				url: site.url || "http://localhost:3000",
+	stacks({ stack }) {
+		stack(async function Site({ stack }) {
+			const { url } = new (await import("sst/constructs")).AstroSite(
+				stack,
+				"site"
+			);
+
+			stack.addOutputs({
+				url: url || "http://localhost:3000",
 			});
 		});
 	},
-} satisfies Type;
+} satisfies SSTConfig;
+
+import type { SSTConfig } from "sst";
