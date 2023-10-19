@@ -23,14 +23,10 @@
 		"url": "https://nikolahristov.tech"
 	},
 	"scripts": {
-<<<<<<< HEAD
 		"dev": "sst bind 'astro dev'",
 		"prepublishOnly": "astro check && astro build",
 		"sst:deploy": "sst deploy",
 		"sst:dev": "sst dev",
-=======
-		"prepublishOnly": "astro check && astro build && knip",
->>>>>>> upstream/main
 		"start": "astro dev"
 	},
 	"dependencies": {
