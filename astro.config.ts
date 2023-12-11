@@ -7,9 +7,6 @@ export default (await import("astro/config")).defineConfig({
 	output: "server",
 	adapter: (await import("astro-sst/lambda")).default(),
 	compressHTML: true,
-	experimental: {
-		devOverlay: true,
-	},
 	integrations: [
 		import.meta.env.MODE === "production"
 			? (await import("astrojs-service-worker")).default()
