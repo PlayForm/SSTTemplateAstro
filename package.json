@@ -44,7 +44,7 @@
 		"astro-rome": "2.0.9",
 		"astrojs-service-worker": "2.0.0",
 		"autoprefixer": "10.4.17",
-		"aws-cdk-lib": "2.121.1",
+		"aws-cdk-lib": "2.122.0",
 		"constructs": "10.3.0",
 		"cssnano": "6.0.3",
 		"cssnano-preset-advanced": "6.0.3",
