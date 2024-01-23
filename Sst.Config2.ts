@@ -1,4 +1,4 @@
-export default ({
+export default {
 	config(_input) {
 		return {
 			name: "astro-sst-template",
@@ -17,6 +17,6 @@ export default ({
 			});
 		});
 	},
-} satisfies SSTConfig);
+} satisfies SSTConfig;
 
 import type { SSTConfig } from "sst";
