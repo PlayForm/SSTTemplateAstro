@@ -48,7 +48,7 @@
 		"constructs": "10.3.0",
 		"cssnano": "6.0.3",
 		"cssnano-preset-advanced": "6.0.3",
-		"dotenv": "16.4.1",
+		"dotenv": "16.4.2",
 		"firebase": "10.8.0",
 		"postcss": "8.4.35",
 		"postcss-combine-duplicated-selectors": "10.0.3",
