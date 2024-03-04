@@ -44,7 +44,7 @@
 		"astro-biome": "0.0.6",
 		"astrojs-service-worker": "2.0.0",
 		"autoprefixer": "10.4.17",
-		"aws-cdk-lib": "2.130.0",
+		"aws-cdk-lib": "2.131.0",
 		"constructs": "10.3.0",
 		"cssnano": "6.0.5",
 		"cssnano-preset-advanced": "6.0.5",
