@@ -59,7 +59,7 @@
 		"sst": "rc",
 		"tailwindcss": "3.4.1",
 		"typescript": "5.4.2",
-		"typescript-esbuild": "0.3.10",
+		"typescript-esbuild": "0.3.11",
 		"zod": "3.22.4"
 	},
 	"publishConfig": {
