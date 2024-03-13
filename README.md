@@ -1,5 +1,5 @@
 # 📄 [AstroSSTTemplate]
 
-Starter template for AstroJS on SST.
+AstroJS Starter on SST.
 
 [AstroSSTTemplate]: https://npmjs.org/@playform/astro-sst-template
