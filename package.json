@@ -3,12 +3,7 @@
 	"version": "0.0.1",
 	"private": false,
 	"description": "📄 AstroJS Starter on SST.",
-	"keywords": [
-		"astro",
-		"starter",
-		"sst",
-		"skeleton"
-	],
+	"keywords": ["astro", "starter", "sst", "skeleton"],
 	"homepage": "https://github.com/Playform/AstroSSTTemplate#readme",
 	"bugs": {
 		"url": "https://github.com/Playform/AstroSSTTemplate/issues"
@@ -20,7 +15,7 @@
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "Nikola R. Hristov",
-		"email": "nikola@nikolahristov.tech",
+		"email": "Nikola@Playform.Cloud",
 		"url": "https://nikolahristov.tech"
 	},
 	"scripts": {
@@ -44,7 +39,7 @@
 		"astro-biome": "0.0.8",
 		"astrojs-service-worker": "2.0.0",
 		"autoprefixer": "10.4.18",
-		"aws-cdk-lib": "2.132.1",
+		"aws-cdk-lib": "2.133.0",
 		"constructs": "10.3.0",
 		"cssnano": "6.1.0",
 		"cssnano-preset-advanced": "6.1.0",
