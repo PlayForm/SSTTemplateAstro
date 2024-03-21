@@ -20,13 +20,12 @@
 	},
 	"scripts": {
 		"dev": "sst bind 'astro dev'",
-		"prepublishOnly": "astro check ; astro build",
+		"prepublishOnly": "astro build",
 		"sst:deploy": "sst deploy",
 		"sst:dev": "sst dev",
 		"start": "astro dev"
 	},
 	"dependencies": {
-		"@astrojs/check": "0.5.9",
 		"@astrojs/prefetch": "0.4.1",
 		"@astrojs/sitemap": "3.1.1",
 		"@tailwindcss/aspect-ratio": "0.4.2",
