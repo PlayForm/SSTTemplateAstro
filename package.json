@@ -38,7 +38,7 @@
 		"astro-critters": "2.1.4",
 		"astro-biome": "0.0.8",
 		"astrojs-service-worker": "2.0.0",
-		"autoprefixer": "10.4.18",
+		"autoprefixer": "10.4.19",
 		"aws-cdk-lib": "2.133.0",
 		"constructs": "10.3.0",
 		"cssnano": "6.1.0",
