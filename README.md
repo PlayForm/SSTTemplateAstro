@@ -2,4 +2,4 @@
 
 AstroJS Starter on SST.
 
-[AstroSSTTemplate]: https://npmjs.org/@playform/astro-sst-template
+[AstroSSTTemplate]: HTTPS://NPMJS.Org/@playform/astro-sst-template
