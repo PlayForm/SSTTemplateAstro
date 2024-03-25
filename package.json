@@ -33,7 +33,7 @@
 		"@tailwindcss/typography": "0.5.10",
 		"astro": "4.5.8",
 		"astro-capo": "0.0.1",
-		"astro-compress": "2.2.15",
+		"astro-compress": "2.2.17",
 		"astro-critters": "2.1.4",
 		"astro-biome": "0.0.8",
 		"astrojs-service-worker": "2.0.0",
