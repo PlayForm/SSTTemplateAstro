@@ -1,4 +1,4 @@
-# 📄 [AstroSSTTemplate]
+# 📄 [AstroSSTTemplate]
 
 AstroJS Starter on SST.
 
