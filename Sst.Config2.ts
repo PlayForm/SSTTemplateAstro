@@ -1,7 +1,7 @@
 export default {
 	config(_input) {
 		return {
-			name: "astro-sst-template",
+			name: "sst-template-astro",
 			region: "us-east-1",
 		};
 	},

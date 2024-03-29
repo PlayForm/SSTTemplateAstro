@@ -1,16 +1,16 @@
 {
-	"name": "astro-sst-template",
+	"name": "sst-template-astro",
 	"version": "0.0.1",
 	"private": false,
 	"description": "📄 AstroJS Starter on SST.",
 	"keywords": ["astro", "starter", "sst", "skeleton"],
-	"homepage": "https://github.com/Playform/AstroSSTTemplate#readme",
+	"homepage": "https://github.com/Playform/SSTTemplateAstro#readme",
 	"bugs": {
-		"url": "https://github.com/Playform/AstroSSTTemplate/issues"
+		"url": "https://github.com/Playform/SSTTemplateAstro/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Playform/AstroSSTTemplate.git"
+		"url": "git+https://github.com/Playform/SSTTemplateAstro.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
@@ -34,8 +34,8 @@
 		"astro": "4.5.12",
 		"astro-capo": "0.0.1",
 		"compress-astro": "0.0.1",
-		"astro-critters": "2.1.6",
-		"astro-biome": "0.0.10",
+		"critters-astro": "2.1.6",
+		"biome-astro": "0.0.10",
 		"astrojs-service-worker": "2.0.0",
 		"autoprefixer": "10.4.19",
 		"aws-cdk-lib": "2.134.0",
