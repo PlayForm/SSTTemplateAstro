@@ -4,7 +4,7 @@
 	"private": false,
 	"description": "📄 AstroJS Starter on SST.",
 	"keywords": ["astro", "starter", "sst", "skeleton"],
-	"homepage": "https://github.com/Playform/SSTTemplateAstro#readme",
+	"homepage": "https://github.com/Playform/SSTTemplateAstro#ReadMe",
 	"bugs": {
 		"url": "https://github.com/Playform/SSTTemplateAstro/issues"
 	},
@@ -33,7 +33,7 @@
 		"@tailwindcss/typography": "0.5.12",
 		"astro": "4.5.12",
 		"astro-capo": "0.0.1",
-		"@playform/compress-astro": "0.0.1",
+		"@playform/compress-astro": "0.0.2",
 		"@playform/critters-astro": "0.0.2",
 		"@playform/biome-astro": "0.0.3",
 		"astrojs-service-worker": "2.0.0",
