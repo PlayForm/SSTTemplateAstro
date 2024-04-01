@@ -35,7 +35,7 @@
 		"astro-capo": "0.0.1",
 		"@playform/compress-astro": "0.0.1",
 		"@playform/critters-astro": "0.0.2",
-		"@playform/biome-astro": "0.0.1",
+		"@playform/biome-astro": "0.0.2",
 		"astrojs-service-worker": "2.0.0",
 		"autoprefixer": "10.4.19",
 		"aws-cdk-lib": "2.134.0",
