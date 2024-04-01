@@ -3,6 +3,6 @@
 		"baseUrl": "./",
 		"types": ["astro/client", "astro/env"]
 	},
-	"extends": "typescript-esbuild/Target/Notation/TypeScript",
+	"extends": "@playform/build/Target/Notation/TypeScript",
 	"include": [".sst/types"]
 }
