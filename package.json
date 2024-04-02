@@ -38,7 +38,7 @@
 		"@playform/biome-astro": "0.0.3",
 		"astrojs-service-worker": "2.0.0",
 		"autoprefixer": "10.4.19",
-		"aws-cdk-lib": "2.134.0",
+		"aws-cdk-lib": "2.135.0",
 		"constructs": "10.3.0",
 		"cssnano": "6.1.2",
 		"cssnano-preset-advanced": "6.1.2",
