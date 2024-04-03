@@ -25,7 +25,7 @@
 	},
 	"scripts": {
 		"dev": "sst bind 'astro dev'",
-		"prepublishOnly": "astro build",
+		"Build": "astro build",
 		"sst:deploy": "sst deploy",
 		"sst:dev": "sst dev",
 		"start": "astro dev"
