@@ -28,7 +28,7 @@
 		"prepublishOnly": "astro build",
 		"sst:deploy": "sst deploy",
 		"sst:dev": "sst dev",
-		"start": "astro dev"
+		"Start": "astro dev"
 	},
 	"dependencies": {
 		"@astrojs/prefetch": "0.4.1",
