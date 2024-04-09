@@ -9,7 +9,7 @@ export default {
 		stack(async function Site({ stack }) {
 			const { url } = new (await import("sst/constructs")).AstroSite(
 				stack,
-				"site",
+				"site"
 			);
 
 			stack.addOutputs({

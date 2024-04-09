@@ -24,11 +24,11 @@
 		"url": "https://playform.cloud"
 	},
 	"scripts": {
+		"Start": "astro dev",
 		"dev": "sst bind 'astro dev'",
 		"prepublishOnly": "astro build",
 		"sst:deploy": "sst deploy",
-		"sst:dev": "sst dev",
-		"Start": "astro dev"
+		"sst:dev": "sst dev"
 	},
 	"dependencies": {
 		"@astrojs/prefetch": "0.4.1",

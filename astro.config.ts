@@ -17,6 +17,9 @@ export default (await import("astro/config")).defineConfig({
 		(await import("@playform/format")).default({ Logger: 1 }),
 		(await import("@playform/compress")).default({ Logger: 1 }),
 	],
+	experimental: {
+		directRenderScript: true,
+	},
 	vite: {
 		build: {
 			sourcemap: true,
