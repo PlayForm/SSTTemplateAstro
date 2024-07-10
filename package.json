@@ -47,7 +47,7 @@
 		"aws-cdk-lib": "2.148.0",
 		"constructs": "10.3.0",
 		"cssnano": "7.0.4",
-		"cssnano-preset-advanced": "7.0.3",
+		"cssnano-preset-advanced": "7.0.4",
 		"dotenv": "16.4.5",
 		"firebase": "10.12.3",
 		"postcss": "8.4.39",
