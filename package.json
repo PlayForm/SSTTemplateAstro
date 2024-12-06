@@ -33,7 +33,7 @@
 	"dependencies": {
 		"@astrojs/prefetch": "0.4.1",
 		"@astrojs/sitemap": "3.2.1",
-		"@playform/build": "0.1.9",
+		"@playform/build": "0.2.0",
 		"@playform/compress": "0.1.6",
 		"@playform/format": "0.0.7",
 		"@playform/inline": "0.1.0",
