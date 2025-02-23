@@ -1,3 +1,7 @@
+import type { defineConfig } from "astro/config";
+
+export const On = process.env["NODE_ENV"] === "development";
+
 export default (await import("astro/config")).defineConfig({
 	srcDir: "./Source",
 	publicDir: "./Public",
@@ -66,6 +70,4 @@ export default (await import("astro/config")).defineConfig({
 				: {},
 		},
 	},
-}) as typeof defineConfig;
-
-import type { defineConfig } from "astro/config";
+}) as defineConfig;
