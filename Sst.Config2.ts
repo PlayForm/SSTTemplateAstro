@@ -1,3 +1,5 @@
+import type { SSTConfig } from "sst";
+
 export default {
 	config(_input) {
 		return {
@@ -9,7 +11,7 @@ export default {
 		stack(async function Site({ stack }) {
 			const { url } = new (await import("sst/constructs")).AstroSite(
 				stack,
-				"site"
+				"site",
 			);
 
 			stack.addOutputs({
@@ -18,5 +20,3 @@ export default {
 		});
 	},
 } satisfies SSTConfig;
-
-import type { SSTConfig } from "sst";
