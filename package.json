@@ -45,11 +45,11 @@
 		"astro-capo": "0.0.1",
 		"astrojs-service-worker": "2.0.0",
 		"autoprefixer": "10.4.21",
-		"aws-cdk-lib": "2.202.0",
+		"aws-cdk-lib": "2.203.1",
 		"constructs": "10.4.2",
 		"cssnano": "7.0.7",
 		"cssnano-preset-advanced": "7.0.7",
-		"dotenv": "17.0.0",
+		"dotenv": "17.0.1",
 		"firebase": "11.10.0",
 		"postcss": "8.5.6",
 		"postcss-combine-duplicated-selectors": "10.0.3",
@@ -60,7 +60,7 @@
 		"sst": "rc",
 		"tailwindcss": "3.4.17",
 		"typescript": "5.8.3",
-		"zod": "3.25.67"
+		"zod": "3.25.69"
 	},
 	"publishConfig": {
 		"access": "public"
