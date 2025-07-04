@@ -60,7 +60,11 @@
 		"sst": "rc",
 		"tailwindcss": "3.4.17",
 		"typescript": "5.8.3",
+<<<<<<< HEAD
 		"zod": "3.25.73"
+=======
+		"zod": "3.25.71"
+>>>>>>> 9b636284c1623a90d5ea92926b6b4e5c7ca0d7a2
 	},
 	"publishConfig": {
 		"access": "public"
