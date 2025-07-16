@@ -45,7 +45,7 @@
 		"astro-capo": "0.0.1",
 		"astrojs-service-worker": "2.0.0",
 		"autoprefixer": "10.4.21",
-		"aws-cdk-lib": "2.204.0",
+		"aws-cdk-lib": "2.205.0",
 		"constructs": "10.4.2",
 		"cssnano": "7.0.7",
 		"cssnano-preset-advanced": "7.0.8",
