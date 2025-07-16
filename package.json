@@ -47,7 +47,7 @@
 		"autoprefixer": "10.4.21",
 		"aws-cdk-lib": "2.205.0",
 		"constructs": "10.4.2",
-		"cssnano": "7.0.7",
+		"cssnano": "7.1.0",
 		"cssnano-preset-advanced": "7.0.8",
 		"dotenv": "17.2.0",
 		"firebase": "11.10.0",
